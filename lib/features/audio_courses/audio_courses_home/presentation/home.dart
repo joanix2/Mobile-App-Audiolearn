@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import '../../../../core/widgets/card.dart';
+import '../../widgets/card.dart';
 import '../../audio_courses_search/presentation/search.dart';
 
 class HomePage extends StatefulWidget {

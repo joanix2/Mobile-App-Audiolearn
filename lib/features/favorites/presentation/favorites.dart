@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../core/widgets/appbar.dart';
-import '../../../core/widgets/card.dart';
+import '../../audio_courses/widgets/card.dart';
 
 
 class FavoritesPage extends StatefulWidget {

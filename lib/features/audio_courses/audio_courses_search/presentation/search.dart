@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../../core/widgets/appbar.dart';
-import '../../../../core/widgets/card.dart';
+import '../../widgets/card.dart';
 
 class FormationListPage extends StatefulWidget {
   const FormationListPage({super.key});

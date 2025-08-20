@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../features/audio_courses/audio_courses_details/presentation/audio_details.dart';
+import '../audio_courses_details/presentation/audio_details.dart';
 
 class FormationGrid extends StatelessWidget {
   final List<Map<String, String>> formations;
